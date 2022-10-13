@@ -1,0 +1,4 @@
+/.vs
+**/bin
+**/obj
+/highfield.ui/node_modules
